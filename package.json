@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@opentui/solid": "0.5.12",
-    "kiro-acp-ai-provider": "3.3.2",
+    "kiro-acp-ai-provider": "git+https://github.com/jacklaw1410/kiro-acp-ai-provider.git#ec55342c7a7f3603c84b27fb9fb1a01d8937c5d5",
     "solid-js": "1.9.12"
   },
   "devDependencies": {
